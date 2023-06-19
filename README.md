@@ -9,7 +9,7 @@ torchvision >=0.8
 ## Training
 
 1. Download datatsets for GLPM (e.g. MAR-ships, CIB-ships, game-of-ships etc) and organize the structure as follows:
-
+```bash
 dataset
 
 └── train/test
@@ -25,7 +25,7 @@ dataset
     |      ├── 2.jpg
     |      └── ...
     └── ...
-
+```
 2、Train from scratch with `train.py`.
 ## Citation
 Please cite our paper if you use GLPM in your work.
