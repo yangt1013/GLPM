@@ -25,19 +25,31 @@ dataset
 │   ├── class_002
 
 |   |      ├── 1.jpg
+
 |   |      ├── 2.jpg
+
 |   |      └── ...
+
 │   └── ...
 
 └── test
+
     ├── class_001
+    
     |      ├── 1.jpg    
+    
     |      ├── 2.jp
+    
     |      └── ...    
+    
     ├── class_002
+    
     |      ├── 1.jpg
+   
     |      ├── 2.jpg
+    
     |      └── ...
+    
     └── ...
 
 2、Train from scratch with train.py.
