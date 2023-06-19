@@ -41,9 +41,12 @@ MAR-ships dataset link:
 ```bash
 ARGOS-Venice boat classification
 
-
-
+https://pan.baidu.com/s/1OHBMLMXvkKima1nK5gF-4A?pwd=GLPM 
+GLPM 
 ```
+```bash
 game-of-ships dataset link:
 
-
+https://pan.baidu.com/s/1XkSwtPnxKblxZ6YQV4tEDA?pwd=GLPM 
+GLPM 
+```
