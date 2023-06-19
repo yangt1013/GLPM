@@ -12,7 +12,7 @@ torchvision >=0.8
 
 dataset
 
-├── train
+└── train
 
 │   ├── class_001
 
