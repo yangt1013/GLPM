@@ -37,16 +37,15 @@ Please cite our paper if you use GLPM in your work.
   year={2021}
 }
 ```
-MAR-ships dataset link:
+##MAR-ships dataset link:
 ```bash
 ARGOS-Venice boat classification
 
 website：https://pan.baidu.com/s/1OHBMLMXvkKima1nK5gF-4A?pwd=GLPM 
 word：GLPM 
 ```
+##game-of-ships dataset link:
 ```bash
-game-of-ships dataset link:
-
 website：https://pan.baidu.com/s/1XkSwtPnxKblxZ6YQV4tEDA?pwd=GLPM 
 word：GLPM 
 ```
