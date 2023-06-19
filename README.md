@@ -39,7 +39,8 @@ Please cite our paper if you use GLPM in your work.
 ```
 MAR-ships dataset link:
 ```bash
+ARGOS-Venice boat classification
+
 https://blog.csdn.net/u014426939/article/details/104749763?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase
 
-paper:Bloisi D D, Iocchi L, Pennisi A, et al. ARGOS-Venice boat classification[C]//2015 12th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS). IEEE, 2015: 1-6.
 ```
