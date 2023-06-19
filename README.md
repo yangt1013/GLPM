@@ -47,9 +47,7 @@ dataset
     |      ├── 1.jpg
    
     |      ├── 2.jpg
-    
     |      └── ...
-    
     └── ...
 
 2、Train from scratch with train.py.
