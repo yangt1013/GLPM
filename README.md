@@ -6,6 +6,36 @@ Pytorch >=1.7
 
 torchvision >=0.8
 
+## Training
+
+1. Download datatsets for GLPM (e.g. MAR-ships, CIB-ships, game-of-ships etc) and organize the structure as follows:
+
+dataset
+├── train
+│   ├── class_001
+|   |      ├── 1.jpg
+|   |      ├── 2.jpg
+|   |      └── ...
+│   ├── class_002
+|   |      ├── 1.jpg
+|   |      ├── 2.jpg
+|   |      └── ...
+│   └── ...
+└── test
+    ├── class_001
+    |      ├── 1.jpg
+    |      ├── 2.jpg
+    |      └── ...
+    ├── class_002
+    |      ├── 1.jpg
+    |      ├── 2.jpg
+    |      └── ...
+    └── ...
+
+Train from scratch with train.py.
+   
+
+
 if you  use this code, please cite the paper 
 
 "Meng H, Tian Y, Ling Y, et al. Fine-grained ship recognition for complex background based on global to local and progressive learning[J]. IEEE Geoscience and Remote Sensing Letters, 2022, 19: 1-5."
