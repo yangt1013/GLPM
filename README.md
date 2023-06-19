@@ -26,7 +26,7 @@ dataset
     |      └── ...
     └── ...
 
-2、Train from scratch with train.py.
+2、Train from scratch with `train.py`.
 ## Citation
 Please cite our paper if you use GLPM in your work.
 
