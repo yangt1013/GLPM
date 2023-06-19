@@ -1,4 +1,4 @@
-# Fine-grained ship recognition for complex background based on global to local and progressive learning
+# Fine-Grained Ship Recognition for Complex Background Based on Global to Local and Progressive Learning
 ## Requirement
 python 3.8
 
@@ -27,16 +27,15 @@ dataset
     └── ...
 
 2、Train from scratch with train.py.
-   
+## Citation
+Please cite our paper if you use GLPM in your work.
 
-
-if you  use this code, please cite the paper 
-
-"Meng H, Tian Y, Ling Y, et al. Fine-grained ship recognition for complex background based on global to local and progressive learning[J]. IEEE Geoscience and Remote Sensing Letters, 2022, 19: 1-5."
-
-Train
-
-python trian.py
+@InProceedings{du2020fine,
+  title={Fine-Grained Ship Recognition for Complex Background Based on Global to Local and Progressive Learning},
+  author={Hao Meng; Yang Tian; Yue Ling; Tao Li},
+  booktitle = {IEEE Geoscience and Remote Sensing Letters},
+  year={2021}
+}
 
 MAR-ships dataset link:
 
