@@ -1,4 +1,10 @@
 # Fine-grained ship recognition for complex background based on global to local and progressive learning
+# Requirement
+python 3.8
+
+Pytorch >=1.7
+
+torchvision >=0.8
 
 if you  use this code, please cite the paper 
 
