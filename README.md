@@ -29,14 +29,14 @@ dataset
 2、Train from scratch with `train.py`.
 ## Citation
 Please cite our paper if you use GLPM in your work.
-
+```bash
 @InProceedings{du2020fine,
   title={Fine-Grained Ship Recognition for Complex Background Based on Global to Local and Progressive Learning},
   author={Hao Meng; Yang Tian; Yue Ling; Tao Li},
   booktitle = {IEEE Geoscience and Remote Sensing Letters},
   year={2021}
 }
-
+```
 MAR-ships dataset link:
 
 https://blog.csdn.net/u014426939/article/details/104749763?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase
