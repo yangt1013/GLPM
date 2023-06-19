@@ -1,5 +1,4 @@
-# GLPM
-Fine-grained ship recognition for complex background based on global to local and progressive learning
+# Fine-grained ship recognition for complex background based on global to local and progressive learning
 
 if you  use this code, please cite the paper 
 
