@@ -12,7 +12,7 @@ torchvision >=0.8
 
 dataset
 
-└── train
+├── train
 
 │   ├── class_001
 
@@ -33,19 +33,12 @@ dataset
 │   └── ...
 
 └── test
-
     ├── class_001
-    
     |      ├── 1.jpg    
-    
     |      ├── 2.jp
-    
     |      └── ...    
-    
     ├── class_002
-    
     |      ├── 1.jpg
-   
     |      ├── 2.jpg
     |      └── ...
     └── ...
