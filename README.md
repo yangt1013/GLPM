@@ -12,19 +12,8 @@ torchvision >=0.8
 
 dataset
 
-├── train
 
-│   ├── class_001
-
-|   |      ├── 1.jpg
-
-|   |      └── ...
-
-│   ├── class_002
-
-|   |      ├── 1.jpg
-
-└── test
+└── train/test
 
     ├── class_001
     
