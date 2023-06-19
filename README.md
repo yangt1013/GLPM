@@ -11,28 +11,48 @@ torchvision >=0.8
 1. Download datatsets for GLPM (e.g. MAR-ships, CIB-ships, game-of-ships etc) and organize the structure as follows:
 
 dataset
+
 ├── train
+
 │   ├── class_001
+
 |   |      ├── 1.jpg
+
 |   |      ├── 2.jpg
+
 |   |      └── ...
+
 │   ├── class_002
+
 |   |      ├── 1.jpg
+
 |   |      ├── 2.jpg
+
 |   |      └── ...
+
 │   └── ...
+
 └── test
+
     ├── class_001
+    
     |      ├── 1.jpg
+    
     |      ├── 2.jpg
+    
     |      └── ...
+    
     ├── class_002
+    
     |      ├── 1.jpg
+    
     |      ├── 2.jpg
+    
     |      └── ...
+    
     └── ...
 
-Train from scratch with train.py.
+2、Train from scratch with train.py.
    
 
 
