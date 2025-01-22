@@ -1,4 +1,5 @@
 # Fine-Grained Ship Recognition for Complex Background Based on Global to Local and Progressive Learning
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760413)
 
 
 
